@@ -34,9 +34,9 @@ import { Head, Link } from '@inertiajs/vue3';
                 class="flex w-full max-w-[335px] flex-col-reverse overflow-hidden rounded-lg lg:max-w-4xl lg:flex-row">
                 <div
                     class="flex-1 rounded-bl-lg rounded-br-lg bg-white p-6 pb-12 text-[13px] leading-[20px] shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] dark:bg-[#161615] dark:text-[#EDEDEC] dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d] lg:rounded-br-none lg:rounded-tl-lg lg:p-20">
-                    <h1 class="mb-1 font-medium">Let's get started</h1>
+                    <h1 class="mb-1 font-medium">Déployer votre musique maintenant</h1>
                     <p class="mb-2 text-[#706f6c] dark:text-[#A1A09A]">
-                        Laravel has an incredibly rich ecosystem. <br />We suggest starting with the following.
+                        Commencez à écouter, créer et partager vos morceaux préférés avec vos amis dès maintenant. Profitez de l’expérience sans limite !
                     </p>
                     <ul class="mb-4 flex flex-col lg:mb-6">
                         <li
@@ -72,7 +72,7 @@ import { Head, Link } from '@inertiajs/vue3';
                                 Watch video tutorials at
                                 <a href="https://laracasts.com" target="_blank"
                                     class="ml-1 inline-flex items-center space-x-1 font-medium text-[#f53003] underline underline-offset-4 dark:text-[#FF4433]">
-                                    <span>Laracasts</span>
+                                    <span>PlaysterCasts</span>
                                     <svg width="{10}" height="{11}" viewBox="0 0 10 11" fill="none"
                                         xmlns="http://www.w3.org/2000/svg" class="h-2.5 w-2.5">
                                         <path d="M7.70833 6.95834V2.79167H3.54167M2.5 8L7.5 3.00001"
@@ -86,7 +86,7 @@ import { Head, Link } from '@inertiajs/vue3';
                         <li>
                             <a href="https://cloud.laravel.com" target="_blank"
                                 class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-black hover:bg-black dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-white dark:hover:bg-white">
-                                Deploy now
+                                Commencer maintenant
                             </a>
                         </li>
                     </ul>
