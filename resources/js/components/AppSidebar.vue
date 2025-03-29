@@ -15,6 +15,11 @@ const mainNavItems: NavItem[] = [
         icon: Search,
     },
     {
+        title: 'Musiques',
+        href: '/songs',
+        icon: Music,
+    },
+    {
         title: 'Playlists',
         href: '/playlists',
         icon: PlayCircle,
